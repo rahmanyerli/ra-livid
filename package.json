@@ -1,0 +1,49 @@
+{
+	"name": "ra-livid",
+	"displayName": "Ra Livid",
+	"description": "Here is the best theme for your eye care!",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.33.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ra Livid",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ra-livid.json"
+			}
+		]
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/ra-livid"
+	},
+	"icon": "images/ra.png",
+	"galleryBanner": {
+		"color": "#1e1e1e",
+		"theme": "dark"
+	},
+	"keywords": [
+		"theme",
+		"vs theme",
+		"code theme",
+		"vscode theme",
+		"dark theme",
+		"vscode, dark theme",
+		"ra",
+		"ra livid theme",
+		"ra livid",
+		"ralivid",
+		"ra-livid",
+		"ra livid theme"
+	]
+}
