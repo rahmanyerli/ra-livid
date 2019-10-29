@@ -1,10 +1,10 @@
 {
 	"name": "ra-livid",
-	"displayName": "Ra Livid",
+	"displayName": "Ra Livid Dark Theme",
 	"description": "Here is the best theme for your eye care!",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"engines": {
-		"vscode": "^1.33.0"
+		"vscode": "^1.39.0"
 	},
 	"categories": [
 		"Themes"
@@ -12,9 +12,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Ra Livid",
+				"label": "Ra Livid Dark Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/ra-livid.json"
+				"path": "./themes/theme.json"
 			}
 		]
 	},
